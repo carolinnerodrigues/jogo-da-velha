@@ -3,7 +3,7 @@
 O objetivo deste projeto é desenvolver uma api para um jogo multiplayer de Jogo da Velha.
 
 O projeto possui dois arquivos:
-  - Um baseado em API's com chamadas POST utilizando a linguagem de programação Python e o frameword Flask e Flask-Restful
+  - Um baseado em API's com chamadas POST utilizando a linguagem de programação Python e o framework Flask e Flask-Restful
   - Outro com a lógica básica para rodar no console.
 
 Curso base para a construção deste projeto:
@@ -24,7 +24,7 @@ https://web.digitalinnovation.one/course/desenvolvimento-avancado-de-rest-api-co
     Werkzeug==1.0.1
     Flask-RESTful==0.3.8
     
-    ### `pip freeze > requirements.txt`
+    ### `pip freeze > Requirements.txt`
 
 ## API's
 
