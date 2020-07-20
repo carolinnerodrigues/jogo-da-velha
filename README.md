@@ -24,7 +24,7 @@ https://web.digitalinnovation.one/course/desenvolvimento-avancado-de-rest-api-co
     Werkzeug==1.0.1
     Flask-RESTful==0.3.8
     
-    ### `pip freeze > Requirements.txt`
+#### `pip freeze > Requirements.txt`
 
 ## API's
 
