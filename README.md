@@ -10,9 +10,12 @@ Curso base para a construção deste projeto:
 Digital Innovation - Desenvolvimento Avançado de REST-API com Flask
 https://web.digitalinnovation.one/course/desenvolvimento-avancado-de-rest-api-com-flask/
 
-## Python 3
+## Python
 
-É necessário ter o Python 3 instalado. Faça o download aqui: https://www.python.org/downloads/
+É necessário ter o Python instalado. Faça o download aqui: https://www.python.org/downloads/
+
+    python 2.7.17
+    pip 18.1
 
 ## Dependências
 
